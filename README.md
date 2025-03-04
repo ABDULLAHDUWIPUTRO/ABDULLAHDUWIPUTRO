@@ -23,6 +23,6 @@ IM CURENLY STUDYING<br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img src="https://raw.githubusercontent.com/ABDULLAHDUWIPUTRO/ABDULAHDUWIPUTRO/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ABDULLAHDUWIPUTRO/ABDULLAHDUWIPUTRO/output/snake.svg" alt="Snake animation" />
 
 ###
